@@ -1,4 +1,4 @@
-### Ola! eu sou Vitor Albuquerque !
+### Ola, eu sou Vitor Albuquerque !
 
 <div align="center">
   <a href="https://github.com/VitorSAlb">
