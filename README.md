@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/VitorSAlb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSAlb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSAlb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <img align="right" alt="Link-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956319574159130664/960342217489264640/giphy.gif">
