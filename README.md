@@ -7,7 +7,7 @@
   <img align="right" alt="Link-pic" height="100" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/956319574159130664/960342217489264640/giphy.gif">
 </div>
 
-##
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSAlb&layout=compact&langs_count=7&theme=dark"/>
 
 <div> 
   
