@@ -9,7 +9,8 @@
 </div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSAlb&layout=compact&langs_count=7&theme=dark"/>
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,git,github,vscode,java,html,css,js,ts,react,nextjs&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,git,github,vscode,python,selenium,html,css,js,ts,react,nextjs&theme=light)](https://skillicons.dev)
 
 <div> 
   
