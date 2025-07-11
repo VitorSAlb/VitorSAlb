@@ -11,7 +11,7 @@
  
 <li>📍 Salvador, BA, Brazil. </li>
 
-<li>🚩 In my last job, I worked at Compass UOL as a back-end intern.</li>
+<li>🚩 I did a 3+ work developing and maintaining robust back-end systems</li>
 
 <li>⚡ I am studying Computer Science at UNIFACS ⚡</li>
 </ul>
