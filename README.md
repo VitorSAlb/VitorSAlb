@@ -11,9 +11,9 @@
  
 <li>📍 Salvador, BA, Brazil. </li>
 
-<li>🚩 I did a 3+ work developing and maintaining robust back-end systems</li>
+<li>🚩 I work developing and maintaining backend systems at one of the largest banks in Latin America. </li>
 
-<li>⚡ I am studying Computer Science at UNIFACS ⚡</li>
+<li>⚡ I am studying Computer Science ⚡</li>
 </ul>
 
 📫 You can contact me through the following means:
